@@ -20,7 +20,7 @@ body {
     color: #000;
     align-items: center;
     margin: 20px auto;
-    padding: 0 300px;
+    padding: 0 100px;
 }
 
 .home {
@@ -28,8 +28,7 @@ body {
     text-decoration-line: none;
     color: #000;
     border: 1px solid #000;
-    padding: 0 20px;
-    
+
 }
 
 .menu {
@@ -148,10 +147,13 @@ footer > p {
     .sample {
         align-items: center;
         width: 100%;
+        margin: 0;
     }
+    .sanple > img{
 
+    }
     .sample > p {
-        font-size: 16px;
+        font-size: 18px;
         text-align: center;
     } 
     .footer > p {
